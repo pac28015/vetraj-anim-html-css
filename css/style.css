@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(227, 238, 255);
+}
+
 /* Wrapper */
 .stainde_glas {
     position: relative;
